@@ -31,40 +31,34 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/institution-management-system.git
+[git clone https://github.com/yourusername/institution-management-system.git](https://github.com/Kizito-Alberrt/CollegeManagement-Django.git)
 ```
 
-2. Navigate to the project directory:
-
-```
-cd institution-management-system
-```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-4. Apply migrations:
+3. Apply migrations:
 
 ```
 python manage.py migrate
 ```
 
-5. Create a superuser (admin account):
+4. Create a superuser (admin account):
 
 ```
 python manage.py createsuperuser
 ```
 
-6. Run the development server:
+5. Run the development server:
 
 ```
 python manage.py runserver
 ```
 
-7. Access the application in your web browser at `http://localhost:8000`.
+6. Access the application in your web browser at `http://localhost:8000`.
 
 ## Deployment
 
@@ -85,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For any questions, issues, or suggestions, please feel free to [contact us](mailto:your@email.com). We'd love to hear from you!
+For any questions, issues, or suggestions, please feel free to [contact us](wagabi98@gmail.com). We'd love to hear from you!
